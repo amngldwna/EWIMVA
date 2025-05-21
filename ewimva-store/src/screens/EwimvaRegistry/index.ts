@@ -1,0 +1,1 @@
+export { EwimvaRegistry } from "./EwimvaRegistry";

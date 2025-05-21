@@ -1,0 +1,1 @@
+export { EwimvaPokypka } from "./EwimvaPokypka";
