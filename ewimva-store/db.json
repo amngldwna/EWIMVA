@@ -9919,6 +9919,24 @@
       "stock": 8,
       "status": "available",
       "gender": "male"
+    },
+    {
+      "id": "387b",
+      "name": "Длинное пальто из чистой шерсти",
+      "category": "Пальто",
+      "color": "Пастельный светло-серый",
+      "status": "available",
+      "stock": 10,
+      "price": "KGS 25 999",
+      "image": "/Длинное пальто из чистой шерсти.png",
+      "gender": "female",
+      "colorVariants": [],
+      "composition": "Не указано",
+      "origin": "Не указано",
+      "care": "Не указано",
+      "photosLarge": [],
+      "photosSmall": [],
+      "description": "Описание отсутствует"
     }
   ]
 }
